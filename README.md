@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-My name is Mark Fussell, CEO of Diagrid and Co-Founder of Dapr. You can follow me on Twitter [@mfussell](https://twitter.com/mfussell). 
+My name is Mark Fussell, CEO of Diagrid and Co-Founder of Dapr. You can follow me on Bluesky [https://bsky.app/profile/mfussell.bsky.social] and X [@mfussell](https://twitter.com/mfussell). 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msfussell)
 
